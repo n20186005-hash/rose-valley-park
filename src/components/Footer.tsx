@@ -13,12 +13,17 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto">
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
-            <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
+            <div className="mb-6">
+              <h2 className="font-display text-2xl font-bold mb-1" style={{ color: 'var(--text-primary)' }}>
+                {t('brandName')}
+              </h2>
+              <p className="text-sm" style={{ color: 'var(--text-muted)' }}>
+                {t('brandSubtitle')}
+              </p>
+            </div>
+            <h3 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
               {t('officialResourcesTitle')}
             </h3>
-            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
-              {t('disclaimer')}
-            </p>
             <div className="flex flex-col gap-2">
               <a href="https://mc.gov.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {locale === 'zh' ? '摩尔多瓦共和国文化部' : locale === 'ro' ? 'Ministerul Culturii al RM' : 'Ministry of Culture of Moldova'}

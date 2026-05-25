@@ -62,6 +62,11 @@
         "id": "biodiversity",
         "title": "Ecology & Flora",
         "content": "The park hosts an impressive variety of plant species, including numerous rose varieties, ornamental trees, and spontaneous flora. Many bird species find shelter here, making it an important urban refuge for biodiversity."
+      },
+      {
+        "id": "facilities",
+        "title": "Recreation & Sports Facilities",
+        "content": "The park features multiple modern children's playgrounds, outdoor fitness equipment, and sports fields. Visitors can also find several cafes and restaurants offering traditional Moldovan cuisine and various beverages, allowing you to enjoy convenient services while exploring nature."
       }
     ]
   },
@@ -77,8 +82,6 @@
     "cityValue": "Chișinău",
     "googleRating": "Google Rating",
     "googleRatingValue": "4.6 (19,089)",
-    "phone": "Phone",
-    "phoneValue": "+373 22 123 456",
     "address": "Address",
     "addressValue": "Strada Valea Trandafirilor, Chișinău, Moldova",
     "plusCode": "Plus Code",
@@ -260,11 +263,13 @@
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Rose Valley Park Info",
+    "brandName": "Rose Valley Park",
+    "brandSubtitle": "Park · Chișinău",
+    "rights": "© 2026 Rose Valley Park Independent Tourism Research Association · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official & Partner Resources",
+    "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
       "cultureMinistry": "Ministry of Culture of Moldova",
       "tourismAgency": "Tourism Agency",
@@ -272,7 +277,7 @@
       "chisinauCityHall": "Chișinău City Hall",
       "chisinauProjects": "Chișinău Projects"
     },
-    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -331,6 +336,6 @@
   },
   "officialManagement": {
     "title": "About Rose Valley Park",
-    "text": "Rose Valley Park (Parcul „Valea Trandafirilor”) is a major urban park in Chișinău, Moldova, being a perfect example of combining nature with urban recreation."
+    "text": "Rose Valley Park (Parcul „Valea Trandafirilor”) is a major urban park in Chișinău, Moldova, being a perfect example of combining nature with urban recreation. The area is jointly managed for ecological protection and daily operations by the Chișinău City Hall and related landscaping and environmental departments."
   }
 }

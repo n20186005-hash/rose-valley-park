@@ -61,6 +61,11 @@
         "id": "biodiversity",
         "title": "Floră și faună",
         "content": "Parcul găzduiește o varietate impresionantă de specii de plante, inclusiv numeroase soiuri de trandafiri, arbori ornamentali și floră spontană. Aici își găsesc adăpost numeroase specii de păsări, fiind un refugiu urban important pentru biodiversitate."
+      },
+      {
+        "id": "facilities",
+        "title": "Facilități de recreere și sport",
+        "content": "Parcul dispune de mai multe locuri de joacă moderne pentru copii, echipamente de fitness în aer liber și terenuri de sport. Vizitatorii pot găsi, de asemenea, mai multe cafenele și restaurante care oferă bucătărie tradițională moldovenească și diverse băuturi, permițându-vă să vă bucurați de servicii convenabile în timp ce explorați natura."
       }
     ]
   },
@@ -76,8 +81,6 @@
     "cityValue": "Chișinău",
     "googleRating": "Evaluare Google",
     "googleRatingValue": "4.6 (19,089)",
-    "phone": "Telefon",
-    "phoneValue": "+373 22 123 456",
     "address": "Adresă",
     "addressValue": "Strada Valea Trandafirilor, Chișinău, Moldova",
     "plusCode": "Cod Plus",
@@ -259,11 +262,13 @@
     "openMaps": "Vezi pe Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Rose Valley Park Info",
+    "brandName": "Parcul Valea Trandafirilor",
+    "brandSubtitle": "Parc · Chișinău",
+    "rights": "© 2026 Asociația Independentă de Cercetare Turistică a Parcului Valea Trandafirilor · Toate drepturile rezervate.",
     "privacy": "Politica de confidențialitate",
     "terms": "Termeni de utilizare",
     "cookies": "Setări cookie",
-    "officialResourcesTitle": "Resurse oficiale și parteneri",
+    "officialResourcesTitle": "Resurse și informații conexe",
     "officialLinks": {
       "cultureMinistry": "Ministerul Culturii al RM",
       "tourismAgency": "Agenția Turismului",
@@ -271,7 +276,7 @@
       "chisinauCityHall": "Primăria Chișinău",
       "chisinauProjects": "Proiecte Chișinău"
     },
-    "disclaimer": "Acesta este un site ghid independent dedicat furnizării de informații de călătorie obiective și precise."
+    "disclaimer": "Acest site este un proiect independent de informații turistice de la terți. Nu suntem afiliați cu guvernul local sau cu orice alte agenții oficiale."
   },
   "privacy": {
     "title": "Politica de confidențialitate",
@@ -330,6 +335,6 @@
   },
   "officialManagement": {
     "title": "Despre Rose Valley Park",
-    "text": "Rose Valley Park (Parcul „Valea Trandafirilor”) este un parc urban major din Chișinău, Republica Moldova, fiind un exemplu perfect de combinare a naturii cu recreerea urbană."
+    "text": "Rose Valley Park (Parcul „Valea Trandafirilor”) este un parc urban major din Chișinău, Republica Moldova, fiind un exemplu perfect de combinare a naturii cu recreerea urbană. Zona este administrată în comun pentru protecția ecologică și operațiunile zilnice de către Primăria Chișinău și departamentele conexe de amenajare peisagistică și mediu."
   }
 }
